@@ -2,8 +2,6 @@
 
 A simple and responsive Job Portal web application built using *HTML, **CSS, and **JavaScript*. This project allows users to view job listings, apply for jobs, and simulate a basic online job board experience.
 
----
-
 ## 📌 Features
 
 - 🧑‍💼 Job listings section
@@ -12,13 +10,11 @@ A simple and responsive Job Portal web application built using *HTML, **CSS, and
 - 🎨 Responsive design with clean UI
 - ⚡ Simple and lightweight frontend project
 
----
 
 ## 🚀 Live Demo
 
-[🔗 Click here to view the live demo](#) (Add your GitHub Pages link or hosted link here once deployed)
+https://github.com/priyanka12b/job-portal
 
----
 
 ## 🛠️ Tech Stack
 
@@ -26,7 +22,6 @@ A simple and responsive Job Portal web application built using *HTML, **CSS, and
 - CSS3
 - JavaScript (ES6)
 
----
 
 ## 📂 Project Structure
 
